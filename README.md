@@ -1,5 +1,5 @@
 # Ứng dụng thuật toán học tăng cường Deep Q-Learning trong phát triển xe tự hành không người lái 
-
+----Người viết: Bùi Minh Cường-----
 ## Deep_Q-Learning = Q-Learning + Deep Learning
 * Về Deep Q-Learning (DQL), một phương pháp học tăng cường (reinforcement learning) sử dụng mạng nơ-ron sâu để ước tính hàm giá trị hành động (Q-value function). DQL là một phần của lĩnh vực trí tuệ nhân tạo (AI) và học máy (machine learning) và đã đánh bại nhiều bài toán trong thế giới thực, bao gồm việc đào tạo máy tính để chơi các trò chơi video.
 Thuật toán Deep Q-learning được sử dụng trong dự án AI xe không người lái này là thuật toán học tăng cường sâu được DeepMind phát minh vào năm 2013. Nó kết hợp các ý tưởng của Q-learning với thuật toán mạng nơ-ron và cũng là nguồn gốc của các thuật toán học tăng cường hiện đại. Các nhà nghiên cứu đã sử dụng thuật toán này để cho phép máy tính học 49 trò chơi Atari vào năm 2015 và đánh bại con người trong hầu hết các trò chơi đó. Về khả năng ứng dụng, chúng ta không cần phải nói rõ các quy tắc cụ thể của AI. Chỉ cần tiếp tục khám phá, nó sẽ từ từ tìm ra quy luật và hoàn thành nhiều hoạt động trí tuệ mà trước đây cho rằng chỉ con người mới có thể thực hiện được.
