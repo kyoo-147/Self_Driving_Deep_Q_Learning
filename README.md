@@ -50,3 +50,12 @@ Mô phỏng + Công thức
 
 ![link](https://user-images.githubusercontent.com/22739177/32822234-60a7c57a-c98c-11e7-82b2-82d53104940a.PNG)
 Softmax-Function
+
+
+- Contact:
+- [Youtube(❁´◡`❁)](https://www.youtube.com/@mihcuog-AILab)
+- [Linkedin(❁´◡`❁)](https://www.linkedin.com/in/minh-cuong-bui/)
+- [Twitter(❁´◡`❁)](https://twitter.com/mih_cuog)
+- [Zalo](https://zalo.me/0365646109)
+- [Gmail](ngoctuanvinh1332@gmail.com)
+- [NaVin AI Tech] [We Comming Soon]
